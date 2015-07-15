@@ -2,6 +2,7 @@ This is my first file
 
 It comes before all other files
 
+<<<<<<< Updated upstream
 
 
 <strong> Come feel the noise, come, come ,come </strong>
@@ -11,3 +12,6 @@ It comes before all other files
 
 privet
 
+=======
+privet
+>>>>>>> Stashed changes
