@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello world, this is add
 
 Welcome to the Ukraine
+=======
+Hello world, this is changes will start in new_feature branch
+>>>>>>> seo_title
