@@ -3,7 +3,11 @@ This is my first file
 It comes before all other files
 
 
+
 <strong> Come feel the noise, come, come ,come </strong>
 
 <p>Today have some good day</p>
+
+
+privet
 
